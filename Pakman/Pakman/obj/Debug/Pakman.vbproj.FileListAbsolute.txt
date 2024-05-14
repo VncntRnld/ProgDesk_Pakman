@@ -1,0 +1,12 @@
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.Form1.resources
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.Resources.resources
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\bin\Debug\Pakman.exe.config
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\bin\Debug\Pakman.exe
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\bin\Debug\Pakman.pdb
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\bin\Debug\Pakman.xml
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.exe
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.xml
+D:\Kuliah\Semester 6\ProgDesktop\12\Project\Pakman\Pakman\obj\Debug\Pakman.pdb
